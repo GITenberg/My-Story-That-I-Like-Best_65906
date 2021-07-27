@@ -1,5 +1,8 @@
 _repo: My-Story-That-I-Like-Best_65906
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65906-h/images/stories_cover.jpg
 creator:
   authors:
   - agent_name: Ferber, Edna
@@ -33,6 +36,8 @@ creator:
     gutenberg_agent_id: '53543'
     url: http://www.gutenberg.org/2009/agents/53543
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65906#My-Story-That-I-Like-Best
 gutenberg_issued: '2021-07-23'
 gutenberg_type: Text
 identifiers:
